@@ -8,7 +8,7 @@ body{
 .button {
   border: 2px solid black;
   background-color: rgba(10,10,10,0.3);
-  font-size: 300%;
+  font-size: 200%;
   cursor: pointer;
   border-color: #ff9800;
   color: orange;
